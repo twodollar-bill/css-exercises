@@ -1,1 +1,15 @@
 /* Add CSS Styling */
+
+.both {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.one {
+    background-color: #000000;
+    color: #f0f0f0;
+}
+
+.two {
+    background-color: yellow;
+}
