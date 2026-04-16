@@ -3,5 +3,15 @@
 .odd-numbers {
     background-color: rgb(249, 108, 129);
     font-family: Verdana, "DejaVu Sans", sans-serif;
-    
+}
+
+#number-two {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+#number-four {
+    background-color: rgb(129, 248, 129);
+    font-size: 24px;
+    font-weight: bold;
 }
